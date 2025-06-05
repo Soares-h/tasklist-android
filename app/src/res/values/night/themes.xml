@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TaskList" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorSurface">@color/background_dark</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorSurfaceVariant">@color/surface_variant_dark</item>
+    </style>
+</resources>
